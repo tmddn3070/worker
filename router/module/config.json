@@ -1,0 +1,10 @@
+{
+  "DB_url": "mongo://172.30.1.26:27017",
+  "DB_username": "tmddn3070",
+  "DB_password": "ss080826",
+  "DB_REDIS_host": "172.30.1.26",
+  "DB_REDIS_port": 6379,
+  "DB_REDIS_password": "ss080826",
+  "WORKER_number": 1,
+  "WORKER_APIKEY": "smoo1"
+}
